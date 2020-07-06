@@ -5,7 +5,7 @@ hidden: true
 title: Project Hindawi
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://docs.google.com/drawings/d/e/2PACX-1vSfAv6VRBL0AjHbgMnBzyhsICyvEDZfoV0bY43s72e6_ACgZ3N9R4OC33cYCErPeAxs9DhDmT_6veH3/pub?w=4110&h=2621
+  overlay_image: https://docs.google.com/drawings/d/e/2PACX-1vSfAv6VRBL0AjHbgMnBzyhsICyvEDZfoV0bY43s72e6_ACgZ3N9R4OC33cYCErPeAxs9DhDmT_6veH3/pub?w=2055&h=1311
   actions:
     - label: "<i class='fas fa-github'></i> Join us"
       url: "/join-us/"
